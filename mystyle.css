@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*css reset*/
+body{background: url(images/momi82009031822290727.gif);  line-height: 1.5; color:#333;}
+body,div,dl,dt,dd,ul,li,ol,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {margin:0; padding:0;}
+table {border-collapse:collapse; border-spacing:0;}
+fieldset,img {border:0;}
+ol,ul,li {list-style:none;}
+caption,th{text-align:left;}
+
+q:before,q:after {content:'';}
+abbr,acronym {border:0;}
+a {color:inherit; text-decoration:none; cursor:pointer;}
+a:hover{ text-decoration:underline;}
+
+.main{ padding:0 5%; font-size:13px;}
+.version{text-align:center; color:#666; font-size:12px;}
+.urlbox{ float:left; width:20%;}
+.friendlink{ overflow:hidden;width:100%; margin:20px 0 20px; }
+.friendlink ul li{float:left; width:20%;}
+.friendlink ul li a{float:left;}
+
+.flower{ width:9px; height:12px; margin-top:6px; margin-left:5px; background:url(images/gif023.gif) no-repeat; float:left;}
