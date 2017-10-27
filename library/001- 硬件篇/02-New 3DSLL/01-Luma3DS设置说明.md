@@ -38,7 +38,7 @@
 "( ) Enable exception handlers" --允许异常的处理程序，一般不建议选  
 "( ) Enable splash screen with no screen-init"--noscreeninit的A9LH用户启用开机画面，一般不用选     
 
-**3DS系统设置内的显示解释**
+**3DS系统设置内的显示解释**  
 LUMA3DS的这个设置选项会影响这个显示，“Show current NAND in System Settings”：版本号显示真实或虚拟。  
 具体：  
 Emu：第一个虚拟系统用自己系统的固件加载（简单来讲，就是你现在在虚拟系统，下同）  
