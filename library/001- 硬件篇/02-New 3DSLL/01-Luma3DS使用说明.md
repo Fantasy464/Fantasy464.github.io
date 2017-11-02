@@ -64,18 +64,18 @@ SD卡文件目录结构说明
 SD:.  
 │  boot.firm          --Luma3DS 现在普通版和开发版都是同一文件  
 │  
-├─files9                             --新的D9、E9、H9、GM9等的统一工作目录  
+├─files9                      --新的D9、E9、H9、GM9等的统一工作目录  
 │  │  aeskeydb.bin            --整合slot0x25keyX,slot0x18keyX,slot0x1BkeyX,slot0x24keyY  
-│  │  d9logo.bin                --Decrypt9下屏开机画面  
-│  │  seeddb.bin               --This file is needed to decrypt seed crypto NCCHs and CIAs.  
+│  │  d9logo.bin              --Decrypt9下屏开机画面  
+│  │  seeddb.bin              --This file is needed to decrypt seed crypto NCCHs and CIAs.  
 │  │  
 │  └─D9Game    
 │    
 └─luma  
-    │  lumaupdater.cfg          --Luma3DS updater的配置文件  
+    │  lumaupdater.cfg        --Luma3DS updater的配置文件  
     │  
     └─payloads  
-            x_H9.firm                --Hourglass9  
-            down_D9.firm         --Decrypt9WIP  
-            up_G9.firm              --GodMode9  
-            y_E9.firm                --EmuNAND9  
+            x_H9.firm         --Hourglass9  
+            down_D9.firm      --Decrypt9WIP  
+            up_G9.firm        --GodMode9  
+            y_E9.firm         --EmuNAND9  
