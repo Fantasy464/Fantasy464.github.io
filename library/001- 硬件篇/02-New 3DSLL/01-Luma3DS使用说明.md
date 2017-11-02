@@ -53,7 +53,7 @@ Ver：版本号的意思，没有对系统进行任何操作的情况下，官�
 A9LH（Arm9LoaderhaX）破解，luma3ds最高支持版本为v7.0.5。高于此版本的luma3ds支持boot9strap破解。  
 2. 在线更新方式，安装lumaupdater的CIA，然后机器联网更新。  
 
-**Luma3DS新版本的跨区路径：**
+**Luma3DS不同版本的跨区路径：**
 luma6.6跨区路径是：/luma/locales/<titleID>.txt
 luma7.0的路径是：/luma/titles/<titleID>/locale.txt
 
