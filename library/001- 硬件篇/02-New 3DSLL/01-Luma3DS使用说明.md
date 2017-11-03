@@ -46,16 +46,16 @@ EmuA：第一个虚拟系统用真实系统的固件加载
 Emu2：第二个虚拟系统用自己系统的固件加载  
 Sys：真实系统用自己系统的固件加载(简单来说就是你现在在真实系统，不过不排除虚拟真实的可能性，最简单验证方法就是，在开机的情况下拔掉SD卡，如果主机还能操作就是真实系统)  
 SysA：真实系统用第一个虚拟系统的固件加载  
-Ver：版本号的意思，没有对系统进行任何操作的情况下，官方的系统就会显示这个前缀。
+Ver：版本号的意思，没有对系统进行任何操作的情况下，官方的系统就会显示这个前缀。  
 
 ### 升级说明  
 1. 离线更新的方式，替换更新根目录的arm9loaderhax.bin  
 A9LH（Arm9LoaderhaX）破解，luma3ds最高支持版本为v7.0.5。高于此版本的luma3ds支持boot9strap破解。  
 2. 在线更新方式，安装lumaupdater的CIA，然后机器联网更新。  
 
-**Luma3DS不同版本的跨区路径：**
-luma6.6跨区路径是：/luma/locales/<titleID>.txt
-luma7.0的路径是：/luma/titles/<titleID>/locale.txt
+**Luma3DS不同版本的跨区路径：**  
+luma6.6跨区路径是：/luma/locales/<titleID>.txt  
+luma7.0的路径是：/luma/titles/<titleID>/locale.txt  
 
 ### SD卡目录结构说明
 **Luma3DS v7.1 boot9strap例子**
