@@ -40,7 +40,7 @@ body{position:relative;height:100%;background:#e7e8eb;}
 .hidden{display:none !important;}
 
 /* ---------- header ---------- */
-.header{width:100%;height:70px;font-family:Microsoft YaHei,STXihei,STHeiti,Verdana,Arial,Helvetica,sans-serif;;background:#fff;border-top:#0373e4 6px solid;border-bottom:#c3c4c6 1px solid;}
+.header{width:100%;height:70px;font-family:Microsoft YaHei,STXihei,STHeiti,Verdana,Arial,Helvetica,sans-serif;;background:#fff;border-bottom:#c3c4c6 1px solid;}
 .header .header-inner{margin:0 30px;}
 .header .logo{float:left;padding-top:15px;}
 .header .logo img{float:left;margin-left:5px;max-height:32px;}
@@ -185,8 +185,8 @@ aside .back-top:hover .back-text{display:block;color:#aaa;}
 
 /* ---------- footer ---------- */
 footer{position:absolute;left:0;bottom:0;width:100%;}
-footer .signature{position:absolute;right:20px;bottom:8px;color:#999;}
-footer .copyright{width:100%;margin-bottom:12px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+footer .signature{position:absolute;right:20px;bottom:2px;color:#999;}
+footer .copyright{width:100%;margin-bottom:2px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 /* ---------- lowBrowser ---------- */
 #lowBrowser{position:fixed;top:0;left:0;z-index:9999999;width:100%;height:100%;}
 #lowBrowser div{position:absolute;top:0;left:0;width:100%;height:100%;background-color:#000000;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=50)";zoom:1;}

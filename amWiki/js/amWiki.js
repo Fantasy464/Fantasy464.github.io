@@ -55,7 +55,7 @@ $(function () {
             if (winW <= threshold) {
                 $container.removeAttr('style');
             } else {
-                $container.height($win.height() - 70 - 15 - 20 * 2);
+                $container.height($win.height() - 70 - 15 - 10 * 2);
             }
         };
         onResize();
@@ -675,5 +675,3 @@ $(function () {
     };
 
 });
-
-
