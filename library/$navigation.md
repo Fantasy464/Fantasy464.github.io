@@ -11,5 +11,8 @@
 - [Personal Computer](?file=001- 硬件篇/04-Personal Computer "Personal Computer")
 
 #####  软件篇
-- [计划要玩的游戏](?file=002- 软件篇/001-计划要玩的游戏 "计划要玩的游戏")
-- [FC](?file=002- 软件篇/002-FC "FC")
+- [计划要玩的游戏](?file=002- 软件篇/01-计划要玩的游戏 "计划要玩的游戏")
+- [FC](?file=002- 软件篇/02-FC "FC")
+- [MD](?file=002- 软件篇/03-MD "MD")
+- [PC](?file=002- 软件篇/04-PC "PC")
+- [PSP](?file=002- 软件篇/05-PSP "PSP")
