@@ -16,3 +16,4 @@
 - [MD](?file=002- 软件篇/03-MD "MD")
 - [PC](?file=002- 软件篇/04-PC "PC")
 - [PSP](?file=002- 软件篇/05-PSP "PSP")
+- [3DS](?file=002- 软件篇/07-3DS "3DS")
