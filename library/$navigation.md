@@ -7,6 +7,7 @@
     - [Luma3DS使用说明](?file=001- 硬件篇/02-New 3DSLL/01-Luma3DS使用说明 "Luma3DS使用说明")
     - [3DS虚拟系统](?file=001- 硬件篇/02-New 3DSLL/02-3DS虚拟系统 "3DS虚拟系统")
     - [RAQ不常见问题解答](?file=001- 硬件篇/02-New 3DSLL/03-RAQ不常见问题解答 "RAQ不常见问题解答")
+    - [FBI安装](?file=001- 硬件篇/02-New 3DSLL/04-FBI安装 "FBI安装")
 - **PSP**
     - [6.61Infinity安装使用教程](?file=001- 硬件篇/03-PSP/01-6.61Infinity安装使用教程 "6.61Infinity安装使用教程")
 - [Personal Computer](?file=001- 硬件篇/04-Personal Computer "Personal Computer")
