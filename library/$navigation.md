@@ -10,7 +10,9 @@
     - [FBI安装](?file=001- 硬件篇/02-New 3DSLL/04-FBI安装 "FBI安装")
 - **PSP**
     - [6.61Infinity安装使用教程](?file=001- 硬件篇/03-PSP/01-6.61Infinity安装使用教程 "6.61Infinity安装使用教程")
-- [Personal Computer](?file=001- 硬件篇/04-Personal Computer "Personal Computer")
+- **PSV**
+    - [PSV3.60破解教程](?file=001- 硬件篇/04-PSV/01-PSV3.60破解教程 "PSV3.60破解教程")
+- [Personal Computer](?file=001- 硬件篇/05-Personal Computer "Personal Computer")
 
 #####  软件篇
 - [计划要玩的游戏](?file=002- 软件篇/01-计划要玩的游戏 "计划要玩的游戏")
