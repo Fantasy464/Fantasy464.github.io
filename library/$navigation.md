@@ -14,6 +14,7 @@
     - [PSV3.60破解教程](?file=001- 硬件篇/04-PSV/01-PSV3.60破解教程 "PSV3.60破解教程")
     - [Vitashell](?file=001- 硬件篇/04-PSV/02-Vitashell "Vitashell")
     - [游戏安装教程](?file=001- 硬件篇/04-PSV/03-游戏安装教程 "游戏安装教程")
+    - [游戏封装教程](?file=001- 硬件篇/04-PSV/04-游戏封装教程 "游戏封装教程")
 - [Personal Computer](?file=001- 硬件篇/05-Personal Computer "Personal Computer")
 
 #####  软件篇
