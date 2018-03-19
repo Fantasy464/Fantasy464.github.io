@@ -27,3 +27,4 @@
 - [PSP](?file=002- 软件篇/05-PSP "PSP")
 - [NDSI](?file=002- 软件篇/06-NDSI "NDSI")
 - [3DS](?file=002- 软件篇/07-3DS "3DS")
+- [PSV](?file=002- 软件篇/08-PSV "PSV")
