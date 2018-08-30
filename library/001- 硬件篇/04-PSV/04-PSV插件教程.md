@@ -30,7 +30,7 @@
 3. psv金手指文件路径``ux0:vitacheat/db/``
 
 ### Pkgi游戏下载及安装教程
-1. 首选需要安装NoNpDrm
+1. 首先需要安装NoNpDrm
 2. 在ux0中新建pkgi文件夹，将config.txt传输进本文件夹
 3. 安装pkgi.vpk
 4. 安装完毕打开，选菜单内刷新，显示游戏列表。不支持后台下载。
