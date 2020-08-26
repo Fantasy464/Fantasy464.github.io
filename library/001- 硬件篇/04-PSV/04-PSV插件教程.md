@@ -34,3 +34,28 @@
 2. 在ux0中新建pkgi文件夹，将config.txt传输进本文件夹
 3. 安装pkgi.vpk
 4. 安装完毕打开，选菜单内刷新，显示游戏列表。不支持后台下载。
+
+### 常用插件
+#### rePatch插件  
+###### 一、插件补丁安装方法
+1. 安装方式，与其他内核插件一样。将其添加到config.txt的* KERNEL部分。
+2. 创建文件夹``ux0 : repatch``（文件夹需要用Vitashell或者其他工具自行创建）
+3. 在rePatch文件夹中用要修补的游戏的ID创建一个文件夹。
+4. 将想替换的解密的内容放在此游戏 ID文件夹中。不包括sce_sys文件夹。
+5. 如果需要，可以删除原始补丁（patch）文件夹或应用（app）文件夹中的重复文件，以节省空间。（保留无影响且更加安全）
+这之后应该有3个单独的文件夹：
+1. 原始应用程序的``ux0:app``文件夹。（不包括正在通过rePatch修补的那些）
+2. 包含官方更新/补丁文件的``ux0:patch``文件夹。（不包括正在通过rePatch修补的那些）
+3. 一个ux0 : repatch文件夹，其中包含应用程序和修补程序中本身就存在的文件的修改版本  
+
+###### 二、DLC用法
+Repatch插件的另一个功能是让NND版本的游戏使用Mai版（完全解密）的DLC，使用方法如下：
+ux0：reAddcont 文件夹需要用Vitashell或者其他工具自行创建（注意文件夹的拼写，错误的拼写会导致无法识别）
+1. 确保``ux0：addcont / <游戏 ID>``不存在。这将使游戏DLC从readdcont文件夹加载。
+1. 将完全解密（mai）的内容放入：``ux0:readdcont/<游戏 ID>/<DLC ID>``
+1. 现在，您可以像使用MaiDump或VITAMIN一样直接修改DLC。
+
+###### 三、作者主页
+https://github.com/dots-tb/rePatch-reDux0/
+
+#### r0syscall6插件  
