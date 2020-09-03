@@ -12,11 +12,11 @@
     - [6.61Infinity安装使用教程](?file=001- 硬件篇/03-PSP/01-6.61Infinity安装使用教程 "6.61Infinity安装使用教程")
 - **PSV**
     - [PSV3.60破解教程](?file=001- 硬件篇/04-PSV/01-PSV3.60破解教程 "PSV3.60破解教程")
-    - [Vitashell](?file=001- 硬件篇/04-PSV/02-Vitashell "Vitashell")
-    - [游戏安装教程](?file=001- 硬件篇/04-PSV/03-游戏安装教程 "游戏安装教程")
-    - [PSV插件教程](?file=001- 硬件篇/04-PSV/04-PSV插件教程 "PSV插件教程")
-    - [PSV3.65破解教程](?file=001- 硬件篇/04-PSV/05-PSV3.65破解教程 "PSV3.65破解教程")
-    - [PSV3.68破解教程](?file=001- 硬件篇/04-PSV/06-PSV3.68破解教程 "PSV3.68破解教程")
+    - [PSV3.65破解教程](?file=001- 硬件篇/04-PSV/02-PSV3.65破解教程 "PSV3.65破解教程")
+    - [PSV3.68破解教程](?file=001- 硬件篇/04-PSV/03-PSV3.68破解教程 "PSV3.68破解教程")
+    - [Vitashell说明](?file=001- 硬件篇/04-PSV/04-Vitashell说明 "Vitashell说明")
+    - [游戏安装教程](?file=001- 硬件篇/04-PSV/05-游戏安装教程 "游戏安装教程")
+    - [插件使用教程](?file=001- 硬件篇/04-PSV/06-插件使用教程 "插件使用教程")
     - [常用技巧](?file=001- 硬件篇/04-PSV/07-常用技巧 "常用技巧")
 - [Personal Computer](?file=001- 硬件篇/05-Personal Computer "Personal Computer")
 
