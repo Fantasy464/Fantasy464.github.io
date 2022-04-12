@@ -3,19 +3,15 @@
 ### 设置说明  
 资料来源于网友整理和luma3ds作者[AuroraWright的Options and usage](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage)
 
-
-
 如果luma目录下没有config.bin（保存luma设置的文件），开机后将自动进Luma3DS设置菜单（以后可以在系统启动时按住Select键进入）。
 
 **Luma3DS设置菜单简要说明：**  
-
 "Default EmuNAND:1( ) 2( ) 3( ) 4( )"--默认EmuNAND的设置，最多支持4个EmuNAND
 "Screen-init brightness: 4( ) 3( ) 2( ) 1( )"：--四级亮度调整，1是最暗，4是最亮。仅限noscreeninit的A9LH用户使用  
 "Splash:Off( ) Before( ) After( ) payloads" --显示启动画面，关闭、在加载payloads前、在加载payloads后  
 "PIN lock:Off( ) 4( ) 6( ) 8( ) digits" --PIN锁选项：关闭、4位、6位、8位，可用按键有A、B、X、Y和数字方向键  
 "New 3DS CPU: Off( ) L2( ) Clock( ) L2+Clock( )"：--N3DS提升CPU的频率、开启扩展的L2 Cache，有需要的可以选  
 "Dev.features:Off( ) ErrDisp( ) UNITINFO( )" --开发者功能：关闭、显示debug错误信息、开发机模式（在线功能将无法使用）
-
 
 "( ) Autoboot SysNAND"：--自动启动真实系统，有需要的选  
 "( ) Autoboot EmuNAND"：--自动启动虚拟系统，有需要的选  
@@ -48,11 +44,18 @@ Sys：真实系统用自己系统的固件加载(简单来说就是你现在在�
 SysA：真实系统用第一个虚拟系统的固件加载  
 Ver：版本号的意思，没有对系统进行任何操作的情况下，官方的系统就会显示这个前缀。  
 
-### 升级说明  
+### A9破解下luma升级说明  
 1. 离线更新的方式，替换更新根目录的arm9loaderhax.bin  
 A9LH（Arm9LoaderhaX）破解，luma3ds最高支持版本为v7.0.5。
 2. 高于v7.0.5版本的luma3ds仅支持boot9strap破解，替换更新boot.firm文件。  
 3. 在线更新方式，安装lumaupdater的CIA，然后机器联网更新。  
+
+### B9破解下luma升级说明  
+1. 下载最新版，并将其中的boot.firm文件替换3DS内存卡根目录的boot.firm
+2. 插卡开机，如果进入到Luma设置，勾选Enable game patching和Show NAND or user string in SystemSettings，按START键。
+3. 有可能开机不会进入luma设置，配置文件可能已被继承，无需再次进入luma设置调整。
+4. 如果此时出现Process name:Boss的错误，请先开机，快速进入系统设置后在线更新系统即可解决。
+
 
 **Luma3DS不同版本的跨区路径：**  
 luma6.6跨区路径是：/luma/locales/<titleID>.txt  
